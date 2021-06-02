@@ -46,7 +46,7 @@ export default class App extends Component {
                         <button
                          className="btn btn-secondary" 
                          style={{marginBottom: '40px'}}
-                         onClick={this.toggleRandomChar}>Toggle button</button>
+                         onClick={this.toggleRandomChar}>Toggle random character</button>
                     </Col>
                 </Row>
                 <CharacterPage/>

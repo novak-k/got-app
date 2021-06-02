@@ -11,15 +11,15 @@ export default class CharacterPage extends Component {
         error: false
     }
 
-    componentDidCatch() {
-        this.setState({
-            error: true
-        })
-    }
-
     onCharSelected = (id) => {
         this.setState({
             selectedChar: id
+        })
+    }
+
+    componentDidCatch() {
+        this.setState({
+            error: true
         })
     }
 

@@ -21,4 +21,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Screenshots:
 
-![]()
+![](https://github.com/novak-k/got-app/blob/master/screenshots/1.png)
+![](https://github.com/novak-k/got-app/blob/master/screenshots/2.png)
+![](https://github.com/novak-k/got-app/blob/master/screenshots/3.png)
+![](https://github.com/novak-k/got-app/blob/master/screenshots/4.png)
+![](https://github.com/novak-k/got-app/blob/master/screenshots/5.png)

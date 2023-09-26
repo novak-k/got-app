@@ -1,25 +1,18 @@
 # GOT-APP
 
-## 
-This project was a part of a course program on Udemy. It made on JavaScript and React.
-It contains few pages - books, characters and houses. It shows random items from all pages from the API of ICE and FIRE (https://anapioficeandfire.com/).
+## Description 
+This project was part of a course program on Udemy. It is made on JavaScript and React.
+It contains a few pages - books, characters, and houses. It shows random items from all pages from the (API of ICE and FIRE)[https://anapioficeandfire.com/].
 
-## Available Scripts
+(Demo Link)[]
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## Technologies: 
+## Technologies
 - JavaScript
 - React
 - HTML
 - CSS
 
-## Screenshots:
+## Screenshots
 
 ![](https://github.com/novak-k/got-app/blob/master/screenshots/1.png)
 ![](https://github.com/novak-k/got-app/blob/master/screenshots/2.png)

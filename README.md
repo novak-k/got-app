@@ -2,9 +2,9 @@
 
 ## Description 
 This project was part of a course program on Udemy. It is made on JavaScript and React.
-It contains a few pages - books, characters, and houses. It shows random items from all pages from the (API of ICE and FIRE)[https://anapioficeandfire.com/].
+It contains a few pages - books, characters, and houses. It shows random items from all pages from the [API of ICE and FIRE](https://anapioficeandfire.com/).
 
-(Demo Link)[]
+[Demo Link](https://novak-k.github.io/got-app)
 
 ## Technologies
 - JavaScript
